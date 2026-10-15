@@ -1,1 +1,1 @@
-# a.b.texteditor
+# a.b.editor
